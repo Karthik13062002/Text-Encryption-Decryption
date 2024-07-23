@@ -1,7 +1,7 @@
 # Text Encryptor
 
 ## Description
-Text Encryptor is a web-based application designed for text encryption and decryption. It allows users to input text, encrypt it using AES encryption, and then decrypt it back to its original form. The encryption keys are securely stored using Web Crypto API and local storage.
+Text Encryptor is a web-based application designed for text encryption and decryption. It allows users to input text, encrypt it using AES encryption, and then decrypt it back to its original form.
 
 ## Instructions to use
 1. Open `encryption.html` in a web browser.
